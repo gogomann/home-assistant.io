@@ -19,7 +19,7 @@ To enable this integration, add the following lines to your `configuration.yaml`
 ```yaml
 cover:
   - platform: brunt
-    username: BRUNT_USERNAME
+    username: BRUNT_USERNAME OR BRUNT_EMAILADRESS
     password: BRUNT_PASSWORD
 ```
 
